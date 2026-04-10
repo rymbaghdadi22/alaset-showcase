@@ -14,8 +14,8 @@ export default {
     },
     extend: {
       fontFamily: {
-        heading: ['Instrument Serif', 'serif'],
-        body: ['Work Sans', 'sans-serif'],
+        heading: ['DM Serif Display', 'serif'],
+        body: ['Fira Sans', 'sans-serif'],
       },
       colors: {
         border: "hsl(var(--border))",
